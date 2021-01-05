@@ -1,6 +1,6 @@
 # youtube-py-dl
 
-![screenshot](https://up.highimhell.pw/uploads/python.PNG)
+![screenshot](https://up.aebrn.io/uploads/python.PNG)
 
 Download the executable from [releases](https://github.com/highimhell/youtube-py-dl/releases/).
 
